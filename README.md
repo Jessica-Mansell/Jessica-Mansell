@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessica-Mansell
-- 👀 I’m interested in UX Design and data science.
-- 🌱 I’m currently learning UX Design as part of a Google certificate and completing JavaScript tutorials to practice coding.
-- 💞️ I’m looking to collaborate on website design, creating graphics, and anything else that encompasses UX Design. I want to develop apps as well!
+- 👀 I’m interested in Frontend Development and Data Science.
+- 🌱 I’m currently learning front end development by completing JavaScript tutorials and projects.
+- 💞️ I’m looking to collaborate on website design, app development, and anything else that I feel like exploring.
 - 📫 How to reach me: here or my LinkedIn (https://www.linkedin.com/in/jessicadev88/)
 
 <!---
