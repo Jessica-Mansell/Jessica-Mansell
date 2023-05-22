@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessica-Mansell
 - 👀 I’m interested in Full Stack Software Development & iOS Development
-- 🌱 I am currently pursuing a Bachelor of Liberal Arts, Extension Studies, Harvard University with a focus in Computer Science.
-- 💞️ I’m looking to collaborate on website design, app development, and anything else that I feel like exploring.
+- 🌱 I am currently pursuing a Bachelor of Liberal Arts, Extension Studies, Harvard University with a concentration in Social Sciences.
+- 💞️ I’m looking to collaborate on website design, app development, open-source projects, and bug fixes.
 - 📫 How to reach me: here or my LinkedIn (https://www.linkedin.com/in/jessicadev88/)
 
 <!---
